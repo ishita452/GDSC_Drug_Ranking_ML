@@ -1,4 +1,3 @@
-# IC50_prediction and drug ranking
 # GDSC Drug Sensitivity Prediction and Ranking Using Machine Learning
 
 ## Overview
